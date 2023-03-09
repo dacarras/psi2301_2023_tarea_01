@@ -1,0 +1,83 @@
+---
+title: "Tarea 1"
+author: "[correo alumno]"
+output:
+  html_document
+---
+
+---
+
+* Recuerde... 
+     - no alterar el formato de este documento y responder en los espacios asignados
+     - descargar la base de datos y subirla a la nube de este proyecto
+
+¡Éxito!
+
+---
+
+# Ejercicio 1
+
+- Inserte los códigos para cargar la base de datos en su proyecto de R Studio Cloud bajo el nombre ‘base’.
+
+```{r}
+
+
+# cada texto despues de un "#" es un comentario
+
+# Agregue los códigos de cada ejercicio, en estas secciones del archivo.
+
+
+```
+
+# Ejercicio 2
+
+- Inserte el código para abrir una vista previa de su base de datos
+
+```{r}
+
+# Pegue o escriba los códigos utilizados en la siguiente línea [no coloque el signo gato antes de su respuesta]
+
+```
+
+# Ejercicio 3
+
+- Ejecute los siguientes comandos reemplazando el valor ‘123456789’ por su Rut para poder crear y guardar una submuestra de su base de datos. No altere el resto de los comandos.
+
+```{r}
+
+# set.seed(escriba_su_rut_aqui)
+
+# El código anterior, es el código empleado para permite replicar
+# una seleccion al azar, definiendo un "seed".
+# esto es necesario para que la selección de casos,
+# pueda ser replicada en otros computadores, en diferentes sesiones.
+# Fijar el seed, permite obtener la misma muestra aleatoria, cada vez.
+
+# Agregue el código de seleccion de casos aleatoria.
+
+```
+
+# Ejercicio 4
+
+- Inserte los códigos utilizados para mostrar la vista previa de la submuestra creada
+
+```{r}
+
+# Escriba, copie y edite el codigo que permita inspeccionar los datos obtenidos.
+
+```
+
+# Ejercicio 5
+
+- Identifique, extraiga en un objeto, y reporte con texto escrito el valor observado en la fila 10, de la variable ‘sex’
+
+```{r}
+
+# Emplee un código que le permita extraer el valor
+# especifico de la tabla de datos, solicitado en este ejercico.
+
+# Fuera de la caja de código o chunk, describa con palabras el valor solicitado en el ejercicio.
+
+```
+
+>Nota: escriba fuera de la "caja de código" o *chunk*, el reporte del valor observado, solicitado en el ejercicio.
